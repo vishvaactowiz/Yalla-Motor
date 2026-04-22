@@ -66,7 +66,6 @@ for state_obj in response["data"]["stateAndCity"]:
             print("Error:", state_key, city_key, e)
 
 
-# ✅ Convert dict → list
 final_output = []
 
 for state in data_map.values():
@@ -95,7 +94,7 @@ create_table()
 
 create_table()
 insert_data(rows)
-# ✅ Save JSON
+
 with open("output.json", "w", encoding="utf-8") as f:
     json.dump(final_output, f, indent=4, ensure_ascii=False)
 

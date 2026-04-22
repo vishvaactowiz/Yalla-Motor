@@ -1,0 +1,82 @@
+[
+    {
+        "state_name": "Andhra Pradesh",
+        "state_code": "AP",
+        "cities": [
+            {
+                "city_name": "Bhimavaram",
+                "city_code": "S61",
+                "stores": [
+                    {
+                        "id": "AP306",
+                        "store_name": "Simha Kia, Undi Highway",
+                        "url": null,
+                        "full_address": "SY No:140/2B, Pedamiram Undi Road,  Near Agriculture Check post,  Bhimavaram – 534202",
+                        "phone1": "7331122044",
+                        "dealer_type": "Sales"
+                    },
+                    {
+                        "id": "AP306",
+                        "store_name": "Simha Kia, Undi Highway",
+                        "url": null,
+                        "full_address": "SY No:140/2B, Pedamiram Undi Road,  Near Agriculture Check post,  Bhimavaram – 534202",
+                        "phone1": "8688836598",
+                        "dealer_type": "Service"
+                    }
+                ]
+            },
+            {
+                "city_name": "Anantpur",
+                "city_code": "S99",
+                "stores": [
+                    {
+                        "id": "AP301",
+                        "store_name": "MG Brothers, NH44, Bangalore Hwy",
+                        "url": null,
+                        "full_address": "1-374, NH44, Bangalore Hwy,  Kakkalapalli Vill, Anantapur 515002",
+                        "phone1": "8333099186",
+                        "dealer_type": "Sales"
+                    },
+                    {
+                        "id": "AP301",
+                        "store_name": "MG Brothers CPO, Anantpur",
+                        "url": null,
+                        "full_address": "1-374, NH44, Bangalore Hwy,  Kakkalapalli Vill, Anantapur, 515002",
+                        "phone1": "8333929195",
+                        "dealer_type": "Pre-owned Cars"
+                    },
+                    {
+                        "id": "AP301",
+                        "store_name": "MG Brothers, NH44, Bangalore Hwy",
+                        "url": null,
+                        "full_address": "1-374, NH44, Bangalore Hwy, Kakkalapalli Vill, Anantapur 515002",
+                        "phone1": "9494436198",
+                        "dealer_type": "Service"
+                    }
+                ]
+            },
+            {
+                "city_name": "Nellore",
+                "city_code": "S54",
+                "stores": [
+                    {
+                        "id": "AP303",
+                        "store_name": "Hoshi Auto, Kakuturu(V)",
+                        "url": null,
+                        "full_address": "48 A1 Kolkata to Chennai High way Kakuturu(V), Venkatachalam M P S R Nellore 524320",
+                        "phone1": "8688829729",
+                        "dealer_type": "Sales"
+                    },
+                    {
+                        "id": "AP303",
+                        "store_name": "Hoshi Auto, Kakuturu(V)",
+                        "url": null,
+                        "full_address": "48 A1 Kolkata to Chennai High way, Kakuturu(V), Venkatachalam M P S R Nellore 524320",
+                        "phone1": "8688829738",
+                        "dealer_type": "Service"
+                    }
+                ]
+            },
+          ]
+
+        
